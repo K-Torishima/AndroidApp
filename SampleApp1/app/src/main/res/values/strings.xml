@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">SampleApp1</string>
-    <string name="hello">hello</string>
-    <string name="ボタンを押した">Button</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
 </resources>
