@@ -67,3 +67,32 @@ class DateUtil {
         }
     }
 }
+
+
+/* 
+使い方
+
+// 最初にString → Dateに変換したいものをDateUtil.toDateで変換
+// あとは変換したものを各methodの引数に入れてあげるだけ
+
+``` 
+    private fun test(date: String) {
+        Log.d("normal", oderAt)
+
+        val toDate = DateUtil.toDate(date))
+        println(toDate1)
+
+        val toYear = DateUtil.toYear(toDate)
+        println(toYear)
+        val toMonth = DateUtil.toMonth(toDate)
+        println(toMonth)
+        val toDay = DateUtil.toDay(toDate)
+        println(toDay)
+        val toDayOfWeek = DateUtil.toDayOfWeek(toDate)
+        println("($toDayOfWeek)")
+        
+        println(all)
+
+```
+
+*/
