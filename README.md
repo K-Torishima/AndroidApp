@@ -1,4 +1,5 @@
-# Androidアプリ開発勉強用　Repository  
+# Androidアプリ開発勉強用　Repository 
+# 試したいAPIや、ライブラリなどはこちらでやっていく
 
 - 大事そうなことを書いていく。 
 - 基本Google公式のものをやっていく
